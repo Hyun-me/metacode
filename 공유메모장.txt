@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 공유메모장 생성완료
 =======
-userA 메모장 확인완료
-userA 작업완료
->>>>>>> A_branch
-admin 에서 userA 의 오류발견
-admin 에서 userA 의 오류 수정 완료
+userA 메모장 확인완료 
+userA 작업완료 >> admin 에서 userA 의 오류발견 >> admin 에서 userA 의 오류 수정 완료
+userB 메모장 확인완료
+userB 작업완료
